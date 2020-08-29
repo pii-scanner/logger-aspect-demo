@@ -1,0 +1,5 @@
+<aspectj>
+    <aspects>
+        <aspect name="com.citi.cpb.logger.aspect.LoggerInterceptorAspect"/>
+    </aspects>
+</aspectj>
